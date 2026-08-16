@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/MuhammadAbuzarKhakwani">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E8441A&center=true&vCenter=true&width=650&height=45&lines=I+ship+production+SaaS%2C+not+tutorial+projects.;PHP+%2B+MySQL+%2B+Tailwind+%E2%80%94+zero+build+step%2C+real+clients.;CCNA+%2B+RHCSA+%E2%80%94+I+debug+the+network%2C+not+just+the+code.;Currently%3A+Python%2C+recursion%2C+and+query+optimization." alt="Typing SVG" />
@@ -6,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-abuzar-khakwani-7824a92ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Reach_out-E8441A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://incorpfy.com"><img src="https://img.shields.io/badge/Live_Project-incorpfy.com-4B6EF5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live project"/></a>
   <img src="https://komarev.com/ghpvc/?username=MuhammadAbuzarKhakwani&style=for-the-badge&color=060608&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -39,7 +38,41 @@ I'm gradually moving toward **DevOps and cloud infrastructure**, expanding from 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `02` — Stack
+## `02` — Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Python Backend Developer Intern**
+<br><sub>Expert System Solutions · Lahore · Current</sub>
+
+As a Python Backend Developer Intern, I am gaining hands-on experience in backend web development using Python, Django, and Flask. I contribute to the development and maintenance of server-side functionality, write clean and maintainable code, and work with databases to implement and manage application features. I collaborate with my team using Git, debug and troubleshoot backend issues, and continuously expand my knowledge of backend development by applying industry best practices in real-world projects.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**Frontend Development Intern**
+<br><sub>EyraTech · Lahore · 6 weeks</sub>
+
+During my 6-week internship, I worked with JavaScript and React.js to develop frontend components and improve user interfaces. I learned Redux for state management, collaborated with senior developers, fixed bugs, and gained practical experience with modern web development workflows.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
+
+## `03` — Stack
 
 <table align="center">
 <tr>
@@ -47,40 +80,38 @@ I'm gradually moving toward **DevOps and cloud infrastructure**, expanding from 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=php,python,cpp,c,js,mysql,bash&perline=4" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=php,python,cpp,c,js,mysql&perline=3" alt="languages"/>
 
 </td>
 <td align="center" width="33%">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,threejs,bootstrap,figma&perline=3" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&perline=3" alt="frontend"/>
 
 </td>
 <td align="center" width="33%">
 
 **Infra & Tools**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,githubactions,git,cloudflare,wordpress,vscode&perline=4" alt="infra"/>
+<img src="https://skillicons.dev/icons?i=linux,githubactions,git,cloudflare,wordpress,vscode&perline=3" alt="infra"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Square_API-3E4348?style=flat-square&logo=square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly_8086-525252?style=flat-square"/>
   <img src="https://img.shields.io/badge/ESP32_%2F_Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `03` — Certified
+## `04` — Certified
 
 <table align="center">
 <tr>
@@ -99,18 +130,18 @@ I'm gradually moving toward **DevOps and cloud infrastructure**, expanding from 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `04` — Featured work
+## `05` — Featured work
 
-### <img src="https://img.shields.io/badge/●-E8441A?style=flat-square" height="14"/> Incorpify — U.S. Business Formation & Compliance SaaS
+### <img src="https://img.shields.io/badge/●-E8441A?style=flat-square" height="14"/> <a href="https://incorpfy.com">Incorpify</a> — U.S. Business Formation & Compliance SaaS
 
 > A multi-tenant platform helping founders in Pakistan, India and the UAE incorporate and stay compliant in the United States. Built and delivered for a client. **In production.**
 
 <p>
+  <a href="https://incorpfy.com"><img src="https://img.shields.io/badge/🔗_Live-incorpfy.com-22C55E?style=flat-square"/></a>
   <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Square-3E4348?style=flat-square&logo=square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
 </p>
@@ -178,9 +209,84 @@ Sensor telemetry ingestion through to trained model: data cleaning, feature engi
 
 </details>
 
+---
+
+### <img src="https://img.shields.io/badge/●-A855F7?style=flat-square" height="14"/> CrisisCare — Patient Management System
+
+> Patient routing and resource allocation for pandemic scenarios — classical search algorithms doing triage under capacity constraints.
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-060608?style=flat-square"/>
+  <img src="https://img.shields.io/badge/A*_%2F_BFS_%2F_DFS-A855F7?style=flat-square"/>
+</p>
+
+<details>
+<summary><b>→ What's inside</b></summary>
+
+<br>
+
+| Area | Detail |
+| :--- | :--- |
+| **Problem** | Move patients to the right facility and hand out limited resources without stranding capacity |
+| **Search** | A\* for cost-aware routing, BFS/DFS for reachability and traversal over the facility graph |
+| **Structures** | Graphs, queues and priority queues driving admission order and allocation |
+| **Focus** | Algorithm choice as a design decision — measuring what each traversal actually costs |
+
+</details>
+
+---
+
+### <img src="https://img.shields.io/badge/●-525252?style=flat-square" height="14"/> Snake — Cross-Language Engine
+
+> The game loop is **Assembly 8086**, bridged into C++ through a header file, with raylib doing the drawing. An exercise in making two very different languages agree on the same memory.
+
+<p>
+  <img src="https://img.shields.io/badge/Assembly_8086-525252?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/raylib-000000?style=flat-square&logo=raylib&logoColor=white"/>
+</p>
+
+<details>
+<summary><b>→ What's inside</b></summary>
+
+<br>
+
+Core loop, movement and collision logic in 8086 assembly; C++ handles the interop layer and hands state to raylib for rendering. The interesting part isn't the game — it's the calling convention, register discipline and shared state across the boundary.
+
+</details>
+
+---
+
+### <img src="https://img.shields.io/badge/●-00599C?style=flat-square" height="14"/> C++ / raylib Builds
+
+> A run of systems and game projects built while getting fluent in OOP, memory management and real-time loops.
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-060608?style=flat-square"/>
+  <img src="https://img.shields.io/badge/raylib-000000?style=flat-square&logo=raylib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<details>
+<summary><b>→ What's inside</b></summary>
+
+<br>
+
+| Project | Built with | What it does |
+| :--- | :--- | :--- |
+| **Chicken Invaders** | C++ · OOP · raylib | Arcade shooter with separate classes for entities, collision handling and scoring |
+| **Parking Management System** | C++ | Tracks parking slots and assigns spaces as cars arrive and leave |
+| **Flappy Bird** | C++ · raylib | Clone with real-time physics — gravity, impulse, frame-timed collision |
+| **Tic-Tac-Toe** | C++ | Two-player game with proper win/draw detection |
+| **Catch the Insect** | HTML · CSS · JS | Browser game — click the insects before they escape. No framework, no build step |
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `05` — How I work
+## `06` — How I work
 
 <table>
 <tr>
@@ -219,7 +325,7 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `06` — GitHub activity
+## `07` — GitHub activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=E8441A&text_color=C9D1D9&icon_color=4B6EF5" alt="stats"/>
@@ -232,7 +338,7 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `07` — Currently
+## `08` — Currently
 
 ```console
 $ khakwani --status
