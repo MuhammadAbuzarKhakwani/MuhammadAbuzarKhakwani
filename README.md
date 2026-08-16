@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `01` — Who I am
+## `01` - Who I am
 
 ```yaml
 name:      Muhammad Abuzar Khakwani
@@ -38,7 +38,7 @@ I'm gradually moving toward **DevOps and cloud infrastructure**, expanding from 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `02` — Experience
+## `02` - Experience
 
 <table>
 <tr>
@@ -327,10 +327,22 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 ## `07` - GitHub activity
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8441A&icon_color=4B6EF5&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAbuzarKhakwani&hide_border=true&background=0D1117&stroke=0D1117&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak stats"/>
+</p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbuzarKhakwani&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8441A&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=MuhammadAbuzarKhakwani&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbuzarKhakwani&bg_color=0D1117&color=C9D1D9&line=E8441A&point=4B6EF5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadAbuzarKhakwani/MuhammadAbuzarKhakwani/output/github-contribution-grid-snake.svg" width="98%" alt="contribution snake animation"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
