@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MuhammadAbuzarKhakwani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E8441A&center=true&vCenter=true&width=650&height=45&lines=I+ship+production+SaaS%2C+not+tutorial+projects.;PHP+%2B+MySQL+%2B+Tailwind+%E2%80%94+zero+build+step%2C+real+clients.;CCNA+%2B+RHCSA+%E2%80%94+I+debug+the+network%2C+not+just+the+code.;Currently%3A+Python%2C+recursion%2C+and+query+optimization." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=FF3D3D&center=true&vCenter=true&width=650&height=50&lines=Muhammad+Abuzar+Khakwani;Python+Developer+%E2%80%94+Moving+to+DevOps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -347,6 +347,14 @@ $ khakwani --status
 [ ▓▓▓▓▓▓░░░░ ]  Building a GitHub Actions → shared-hosting deploy pipeline
 [ ▓▓▓▓▓░░░░░ ]  Python daily: recursion → OOP → generators → file handling
 [ ▓▓▓░░░░░░░ ]  Database internals & query planning
+
+$ khakwani --core-skills
+
+C++          [ ▓▓▓▓▓▓▓▓░░ ]  Strong
+SQL          [ ▓▓▓▓▓▓▓░░░ ]  Strong
+Assembly     [ ▓▓▓▓▓▓▓░░░ ]  Solid
+DSA          [ ▓▓▓▓▓▓▓▓░░ ]  Strong
+OOP          [ ▓▓▓▓▓▓▓▓▓░ ]  Strong
 ```
 
 <p align="center">
