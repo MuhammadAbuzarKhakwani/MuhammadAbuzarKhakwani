@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,40:E8441A,100:4B6EF5&height=200&section=header&text=Muhammad%20Abuzar%20Khakwani&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Linux%20%26%20Networks%20%C2%B7%20Lahore,%20PK&descSize=16&descAlignY=55" width="100%" alt="banner"/>
 
 <p align="center">
   <a href="https://github.com/MuhammadAbuzarKhakwani">
