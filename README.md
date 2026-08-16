@@ -327,10 +327,7 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 ## `07` - GitHub activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=E8441A&text_color=C9D1D9&icon_color=4B6EF5" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbuzarKhakwani&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=E8441A&text_color=C9D1D9" alt="top languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbuzarKhakwani&bg_color=0D1117&color=C9D1D9&line=E8441A&point=4B6EF5&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="activity graph"/>
