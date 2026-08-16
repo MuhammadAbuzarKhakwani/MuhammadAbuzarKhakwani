@@ -19,16 +19,23 @@
 ```yaml
 name:      Muhammad Abuzar Khakwani
 role:      Software Engineering undergrad @ NASTP Institute of IT (NIIT), Lahore
-building: [ "U.S. business-formation SaaS", "multilingual RTL directories" ]
-certs:    [ "CCNA — Cisco", "RHCSA — Red Hat" ]
-learning: [ "Python: recursion → OOP → generators", "database internals" ]
+building:  "U.S. business-formation SaaS", "multilingual RTL directories" 
+certs:    "CCNA — Cisco", "RHCSA — Red Hat" 
+learning: "Python: recursion → OOP → generators", "database internals" 
 past:     "Software Engineering Intern @ EyraTech"
 motto:    "Ship it, then make it fast."
 ```
 
-I build **production software with real users, real domains, and real money moving through it** — not coursework demos.
+**4th-Semester Software Engineering Student | Python Backend Developer | Django & Flask | C++ | CCNA | RHCSA | Moving Toward DevOps**
 
-I take client projects end to end: requirements → schema design → application → payments → deployment → DNS, SSL, SMTP and CDN. Because I'm certified in **networking (CCNA)** and **Linux administration (RHCSA)**, I'm as comfortable tracing an SMTP handshake or fixing an SSH deploy pipeline as I am writing the application that sits on top of it.
+I work primarily as a **Python backend/software engineer**, building and maintaining applications with **Python, Django, and Flask**, from requirements and database/schema design through development, testing, deployment, and production support.
+
+I take projects **end to end**: application architecture → database design → backend development → authentication & payments → deployment → DNS, SSL, SMTP, and CDN configuration. My **CCNA** and **RHCSA** background also gives me a strong understanding of the infrastructure behind software, allowing me to troubleshoot networking, Linux servers, SSH deployments, and production environments—not just write code.
+
+Throughout university, I have also worked extensively with **C++** through academic and personal projects, strengthening my foundations in **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), memory management, problem-solving, and software design**. I've also used **Raylib with C++** to build GUI-based and interactive applications, giving me hands-on experience taking concepts from core programming to working software.
+
+I'm gradually moving toward **DevOps and cloud infrastructure**, expanding from backend engineering into **CI/CD, server administration, deployment automation, monitoring, networking, and scalable infrastructure**. My goal is to become an engineer who can **build the application, deploy it, and confidently manage the infrastructure it runs on**.
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
