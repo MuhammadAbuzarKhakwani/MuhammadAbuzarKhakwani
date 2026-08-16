@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MuhammadAbuzarKhakwani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=FF3D3D&center=true&vCenter=true&width=650&height=50&lines=Muhammad+Abuzar+Khakwani;Python+Developer+%E2%80%94+Moving+to+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=FF3D3D&center=true&vCenter=true&width=650&height=50&lines=Muhammad+Abuzar+Khakwani;Python+Developer+%E2%80%94+Moving+toward+DevOps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `03` — Stack
+## `03` - Stack
 
 <table align="center">
 <tr>
@@ -111,7 +111,7 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `04` — Certified
+## `04` - Certified
 
 <table align="center">
 <tr>
@@ -130,7 +130,7 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `05` — Featured work
+## `05` - Featured work
 
 ### <img src="https://img.shields.io/badge/●-E8441A?style=flat-square" height="14"/> <a href="https://incorpfy.com">Incorpify</a> — U.S. Business Formation & Compliance SaaS
 
@@ -286,7 +286,7 @@ Core loop, movement and collision logic in 8086 assembly; C++ handles the intero
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `06` — How I work
+## `06` - How I work
 
 <table>
 <tr>
@@ -325,7 +325,7 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `07` — GitHub activity
+## `07` - GitHub activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=E8441A&text_color=C9D1D9&icon_color=4B6EF5" alt="stats"/>
@@ -338,7 +338,7 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `08` — Currently
+## `08` - Currently
 
 ```console
 $ khakwani --status
@@ -363,7 +363,7 @@ OOP          [ ▓▓▓▓▓▓▓▓▓░ ]  Strong
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Let's_build_something-E8441A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact"/></a>
+  <a href="mailto:mkhakwani815@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-E8441A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6EF5,60:E8441A,100:060608&height=120&section=footer" width="100%" alt="footer"/>
