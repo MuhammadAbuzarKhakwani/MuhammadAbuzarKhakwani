@@ -43,7 +43,9 @@ I'm gradually moving toward **DevOps and cloud infrastructure**, expanding from 
 <tr>
 <td width="50%" valign="top">
 
-**Python Backend Developer Intern** <br><sub>Expert System Solutions · Lahore · Current</sub>
+**Python Backend Developer Intern**
+
+<br><sub>Expert System Solutions · Lahore · Current</sub>
 
 As a Python Backend Developer Intern, I am gaining hands-on experience in backend web development using Python, Django, and Flask. I contribute to the development and maintenance of server-side functionality, write clean and maintainable code, and work with databases to implement and manage application features. I collaborate with my team using Git, debug and troubleshoot backend issues, and continuously expand my knowledge of backend development by applying industry best practices in real-world projects.
 
@@ -53,10 +55,11 @@ As a Python Backend Developer Intern, I am gaining hands-on experience in backen
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </td>
-
 <td width="50%" valign="top">
 
-**Frontend Development Intern** <br><sub>EyraTech · Lahore · 6 weeks</sub>
+**Frontend Development Intern**
+
+<br><sub>EyraTech · Lahore · 6 weeks</sub>
 
 During my 6-week internship, I worked with JavaScript and React.js to develop frontend components and improve user interfaces. I learned Redux for state management, collaborated with senior developers, fixed bugs, and gained practical experience with modern web development workflows.
 
@@ -74,7 +77,6 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 
 <table align="center">
 <tr>
-
 <td align="center" width="33%">
 
 **Languages**
@@ -82,7 +84,6 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 <img src="https://skillicons.dev/icons?i=php,python,cpp,c,js,mysql&perline=3" alt="languages"/>
 
 </td>
-
 <td align="center" width="33%">
 
 **Frontend**
@@ -90,7 +91,6 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&perline=3" alt="frontend"/>
 
 </td>
-
 <td align="center" width="33%">
 
 **Infra & Tools**
@@ -98,7 +98,6 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 <img src="https://skillicons.dev/icons?i=linux,githubactions,git,cloudflare,wordpress,vscode&perline=3" alt="infra"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -117,19 +116,16 @@ During my 6-week internship, I worked with JavaScript and React.js to develop fr
 
 <table align="center">
 <tr>
-
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/><br><br>
-<b>Cisco Certified Network Associate</b><br>
-<sub>Routing · Switching · Network security · Troubleshooting</sub>
-</td>
 
+<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/><br><br> <b>Cisco Certified Network Associate</b><br> <sub>Routing · Switching · Network security · Troubleshooting</sub>
+
+</td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA"/><br><br>
-<b>Red Hat Certified System Administrator</b><br>
-<sub>Linux admin · Storage · Services · SELinux</sub>
-</td>
 
+<img src="https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA"/><br><br> <b>Red Hat Certified System Administrator</b><br> <sub>Linux admin · Storage · Services · SELinux</sub>
+
+</td>
 </tr>
 </table>
 
@@ -295,7 +291,6 @@ Core loop, movement and collision logic in 8086 assembly; C++ handles the intero
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 **Shipping, not prototyping**
@@ -303,7 +298,6 @@ Core loop, movement and collision logic in 8086 assembly; C++ handles the intero
 Every project above went to a real client with a real domain and live transactions. I've handled the unglamorous half — DNS records, mailbox provisioning, CDN purges, storage limits at 97%.
 
 </td>
-
 <td width="50%" valign="top">
 
 **Systems-level debugging**
@@ -311,11 +305,9 @@ Every project above went to a real client with a real domain and live transactio
 Certified in networking and Linux administration, so production issues get *traced*, not guessed at. Blocking SMTP calls, OPcache staleness, mismatched document roots — found and fixed.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 **Whole-stack ownership**
@@ -323,7 +315,6 @@ Certified in networking and Linux administration, so production issues get *trac
 Requirements → schema → API → UI → deployment. I write the PRD and I run the deploy, which means the architecture is chosen for how it will actually be hosted.
 
 </td>
-
 <td width="50%" valign="top">
 
 **Performance & a11y as requirements**
@@ -331,7 +322,6 @@ Requirements → schema → API → UI → deployment. I write the PRD and I run
 Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contrast are written into the design system before the first component ships.
 
 </td>
-
 </tr>
 </table>
 
@@ -339,57 +329,28 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 ## `07` - GitHub activity
 
-<!-- GitHub Streak -->
-
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAbuzarKhakwani&hide_border=true&background=0D1117&stroke=0D1117&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"
-    alt="GitHub streak stats"/>
+    src="https://streak-stats.demolab.com/?user=MuhammadAbuzarKhakwani&hide_border=true&background=0D1117&stroke=0D1117&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"
+    alt="GitHub streak stats"
+  />
 </p>
-
-<!-- Contribution Activity Graph -->
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbuzarKhakwani&bg_color=0D1117&color=C9D1D9&line=E8441A&point=4B6EF5&area=true&hide_border=true&custom_title=Contribution%20Activity"
     width="98%"
-    alt="Contribution activity graph"/>
+    alt="GitHub contribution activity graph"
+  />
 </p>
-
-<!-- Contribution Snake -->
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/MuhammadAbuzarKhakwani/MuhammadAbuzarKhakwani/output/github-contribution-grid-snake.svg"
     width="98%"
-    alt="Contribution snake animation"/>
-</p>
-
-<!-- GitHub Stats + Top Languages -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8441A&icon_color=4B6EF5&text_color=C9D1D9&rank_icon=github"
-    height="180"
-    alt="GitHub statistics"/>
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbuzarKhakwani&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8441A&text_color=C9D1D9&langs_count=8"
- height="180"
- alt="Top languages"/>
-
-</p>
-
-<!-- GitHub Trophies -->
-
-<h2 align="center">GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MuhammadAbuzarKhakwani&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
-    width="98%"
-    alt="GitHub trophies"/>
+    alt="GitHub contribution snake animation"
+  />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
