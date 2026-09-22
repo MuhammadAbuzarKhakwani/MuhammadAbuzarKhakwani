@@ -1,0 +1,427 @@
+<svg width="880" height="680" viewBox="0 0 880 680" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill level meters" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMDI0MTA2My0yOTUzLTQzOTMtYWQ2OC03YzQ4ZDdkOGI1ZmQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGkLPz+U5dT72RR7lm3jEUkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyODc2OTYwOC0zNjY3LTQ2YjQtYWI2ZS1hMjZlMmFlODQ4MTdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoiVMC9TMATIdhRk4CzyJjlwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggCA4fo9fBLGrcljEUgyTFSnHRHRfVpNEp64TU4baDT/6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEuBmTGdQYAbyvD6jDpaL7cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCsq15LStKvtArN4L9TC4fsGJ30CzHgmcF8McpFkW/lL2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjBZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMwMjQxMDYzLTI5NTMtNDM5My1hZDY4LTdjNDhkN2Q4YjVmZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjBkODM5M2IwLTIxZDItNDAxYS04ODI0LWUxMTA3ZGFlMGM1ZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAIDh+j18EsatyWMRSDJMVKcdEdF9Wk0SnrhNThtoNP/qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgguF2lBMHsjicdU+xVW/DJQRNbNCu1c2j55mDZHt/fNO6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggkRd8r/o39llFaBCwxz3hLe/UEHbb4S/buCL0Ru/Pr1x0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDAp+LOuAXJAtfb1iqShGcU2W5DTmDYWYFZomQ10kz/gSprX2Jba+fAUz4qrTYP4EUZCrSV1qXHOVmI6RnE63AE=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#050608"/>
+    </linearGradient>
+    <linearGradient id="headGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad8" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <linearGradient id="barGrad9" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8441A"/>
+      <stop offset="100%" stop-color="#4B6EF5"/>
+    </linearGradient>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="880" height="680" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="0" y="0" width="880" height="680" fill="url(#bgGrad)"/>
+    <rect x="0" y="0" width="880" height="680" rx="18" fill="none" stroke="#21262d" stroke-width="1.4"/>
+
+    <!-- header -->
+    <rect x="0" y="0" width="880" height="4" fill="url(#headGrad)"/>
+    <text x="40" y="42" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="21" font-weight="700" fill="#E6EDF3">&#9889; SKILL METER</text>
+    <text x="40" y="64" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="12" fill="#7D8590">self-rated proficiency &#183; out of 100 &#183; updated manually</text>
+    <line x1="40" y1="78" x2="840" y2="78" stroke="#21262d" stroke-width="1"/>
+
+
+  <!-- OOP -->
+  <text x="40" y="121" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">OOP</text>
+  <text x="750" y="121" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">SOLID</text>
+
+  <rect x="250" y="132" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="134" x2="300.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="134" x2="350.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="134" x2="400.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="134" x2="450.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="134" x2="500.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="134" x2="550.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="134" x2="600.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="134" x2="650.0" y2="146" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="134" x2="700.0" y2="146" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip0">
+    <rect x="250" y="132" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="450.0" begin="0.00s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="132" width="500" height="16" rx="8" fill="url(#barGrad0)" clip-path="url(#clip0)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="133.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip0)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="140.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="700.0" begin="0.00s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.10s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="145" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#E8441A" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.4s" fill="freeze"/>
+    90
+  </text>
+  <text x="774" y="145" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- Linux / RHCSA -->
+  <text x="40" y="175" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">Linux / RHCSA</text>
+  <text x="750" y="175" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">SOLID</text>
+
+  <rect x="250" y="186" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="188" x2="300.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="188" x2="350.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="188" x2="400.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="188" x2="450.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="188" x2="500.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="188" x2="550.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="188" x2="600.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="188" x2="650.0" y2="200" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="188" x2="700.0" y2="200" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip1">
+    <rect x="250" y="186" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="440.0" begin="0.12s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="186" width="500" height="16" rx="8" fill="url(#barGrad1)" clip-path="url(#clip1)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="187.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip1)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="194.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="690.0" begin="0.12s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.22s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="199" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#E8441A" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/>
+    88
+  </text>
+  <text x="774" y="199" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- Networking / CCNA -->
+  <text x="40" y="229" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">Networking / CCNA</text>
+  <text x="750" y="229" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">SOLID</text>
+
+  <rect x="250" y="240" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="242" x2="300.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="242" x2="350.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="242" x2="400.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="242" x2="450.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="242" x2="500.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="242" x2="550.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="242" x2="600.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="242" x2="650.0" y2="254" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="242" x2="700.0" y2="254" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip2">
+    <rect x="250" y="240" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="425.0" begin="0.24s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="240" width="500" height="16" rx="8" fill="url(#barGrad2)" clip-path="url(#clip2)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="241.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip2)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="248.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="675.0" begin="0.24s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.34s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="253" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#E8441A" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/>
+    85
+  </text>
+  <text x="774" y="253" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- C++ -->
+  <text x="40" y="283" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">C++</text>
+  <text x="750" y="283" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">SOLID</text>
+
+  <rect x="250" y="294" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="296" x2="300.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="296" x2="350.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="296" x2="400.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="296" x2="450.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="296" x2="500.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="296" x2="550.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="296" x2="600.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="296" x2="650.0" y2="308" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="296" x2="700.0" y2="308" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip3">
+    <rect x="250" y="294" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="410.0" begin="0.36s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="294" width="500" height="16" rx="8" fill="url(#barGrad3)" clip-path="url(#clip3)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="295.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip3)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="302.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="660.0" begin="0.36s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.46s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="307" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#E8441A" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.4s" fill="freeze"/>
+    82
+  </text>
+  <text x="774" y="307" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- DSA -->
+  <text x="40" y="337" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">DSA</text>
+  <text x="750" y="337" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">SOLID</text>
+
+  <rect x="250" y="348" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="350" x2="300.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="350" x2="350.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="350" x2="400.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="350" x2="450.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="350" x2="500.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="350" x2="550.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="350" x2="600.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="350" x2="650.0" y2="362" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="350" x2="700.0" y2="362" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip4">
+    <rect x="250" y="348" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="400.0" begin="0.48s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="348" width="500" height="16" rx="8" fill="url(#barGrad4)" clip-path="url(#clip4)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="349.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip4)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="356.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="650.0" begin="0.48s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.58s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="361" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#E8441A" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.4s" fill="freeze"/>
+    80
+  </text>
+  <text x="774" y="361" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.38s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- SQL -->
+  <text x="40" y="391" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">SQL</text>
+  <text x="750" y="391" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">GOOD</text>
+
+  <rect x="250" y="402" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="404" x2="300.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="404" x2="350.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="404" x2="400.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="404" x2="450.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="404" x2="500.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="404" x2="550.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="404" x2="600.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="404" x2="650.0" y2="416" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="404" x2="700.0" y2="416" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip5">
+    <rect x="250" y="402" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="375.0" begin="0.60s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="402" width="500" height="16" rx="8" fill="url(#barGrad5)" clip-path="url(#clip5)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="403.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip5)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="410.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="625.0" begin="0.60s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.70s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="415" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#4B6EF5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.4s" fill="freeze"/>
+    75
+  </text>
+  <text x="774" y="415" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- Assembly (8086) -->
+  <text x="40" y="445" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">Assembly (8086)</text>
+  <text x="750" y="445" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">GOOD</text>
+
+  <rect x="250" y="456" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="458" x2="300.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="458" x2="350.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="458" x2="400.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="458" x2="450.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="458" x2="500.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="458" x2="550.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="458" x2="600.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="458" x2="650.0" y2="470" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="458" x2="700.0" y2="470" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip6">
+    <rect x="250" y="456" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="350.0" begin="0.72s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="456" width="500" height="16" rx="8" fill="url(#barGrad6)" clip-path="url(#clip6)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="457.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip6)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="464.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="600.0" begin="0.72s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.82s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="469" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#4B6EF5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.4s" fill="freeze"/>
+    70
+  </text>
+  <text x="774" y="469" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.62s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- Python -->
+  <text x="40" y="499" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">Python</text>
+  <text x="750" y="499" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">GROWING</text>
+
+  <rect x="250" y="510" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="512" x2="300.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="512" x2="350.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="512" x2="400.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="512" x2="450.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="512" x2="500.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="512" x2="550.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="512" x2="600.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="512" x2="650.0" y2="524" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="512" x2="700.0" y2="524" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip7">
+    <rect x="250" y="510" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="340.0" begin="0.84s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="510" width="500" height="16" rx="8" fill="url(#barGrad7)" clip-path="url(#clip7)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="511.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip7)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="518.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="590.0" begin="0.84s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="1.94s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="523" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#4B6EF5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.74s" dur="0.4s" fill="freeze"/>
+    68
+  </text>
+  <text x="774" y="523" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.74s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- Django / Flask -->
+  <text x="40" y="553" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">Django / Flask</text>
+  <text x="750" y="553" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">GROWING</text>
+
+  <rect x="250" y="564" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="566" x2="300.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="566" x2="350.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="566" x2="400.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="566" x2="450.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="566" x2="500.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="566" x2="550.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="566" x2="600.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="566" x2="650.0" y2="578" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="566" x2="700.0" y2="578" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip8">
+    <rect x="250" y="564" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="310.0" begin="0.96s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="564" width="500" height="16" rx="8" fill="url(#barGrad8)" clip-path="url(#clip8)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="565.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip8)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="572.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="560.0" begin="0.96s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="2.06s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="577" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#4B6EF5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.86s" dur="0.4s" fill="freeze"/>
+    62
+  </text>
+  <text x="774" y="577" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.86s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+  <!-- JavaScript / React -->
+  <text x="40" y="607" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E6EDF3">JavaScript / React</text>
+  <text x="750" y="607" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="1.5" fill="#7D8590">GROWING</text>
+
+  <rect x="250" y="618" width="500" height="16" rx="8" fill="#161B22" stroke="#262C36" stroke-width="1"/>
+
+  <!-- tick marks every 10% -->
+  <line x1="300.0" y1="620" x2="300.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="350.0" y1="620" x2="350.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="400.0" y1="620" x2="400.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="450.0" y1="620" x2="450.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="500.0" y1="620" x2="500.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="550.0" y1="620" x2="550.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="600.0" y1="620" x2="600.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="650.0" y1="620" x2="650.0" y2="632" stroke="#0000002e" stroke-width="1"/><line x1="700.0" y1="620" x2="700.0" y2="632" stroke="#0000002e" stroke-width="1"/>
+
+  <clipPath id="clip9">
+    <rect x="250" y="618" width="0" height="16" rx="8">
+      <animate attributeName="width" from="0" to="275.0" begin="1.08s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </rect>
+  </clipPath>
+
+  <rect x="250" y="618" width="500" height="16" rx="8" fill="url(#barGrad9)" clip-path="url(#clip9)"/>
+
+  <!-- glossy top highlight -->
+  <rect x="250" y="619.5" width="500" height="7.0" rx="6" fill="#ffffff" opacity="0.10" clip-path="url(#clip9)"/>
+
+  <!-- glowing tip that travels to rest position then pulses -->
+  <circle cx="250" cy="626.0" r="3.4" fill="#ffffff" filter="url(#glow)">
+    <animate attributeName="cx" from="250" to="525.0" begin="1.08s" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" begin="2.18s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="764" y="631" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13.5" font-weight="700" fill="#4B6EF5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.4s" fill="freeze"/>
+    55
+  </text>
+  <text x="774" y="631" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10" fill="#7D8590" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.98s" dur="0.4s" fill="freeze"/>
+    /100
+  </text>
+
+
+    <text x="40" y="668" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" fill="#7D8590">github.com/MuhammadAbuzarKhakwani</text>
+  </g>
+</svg>
