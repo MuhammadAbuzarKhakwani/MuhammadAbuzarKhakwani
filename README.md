@@ -276,7 +276,7 @@ Core loop, movement and collision logic in 8086 assembly; C++ handles the intero
 <br>
 
 | Project                       | Built with         | What it does                                                                      |
-| :---------------------------- | :----------------- | :-------------------------------------------------------------------------------- |
+| :---------------------------- | :------------------ | :--------------------------------------------------------------------------------- |
 | **Chicken Invaders**          | C++ · OOP · raylib | Arcade shooter with separate classes for entities, collision handling and scoring |
 | **Parking Management System** | C++                | Tracks parking slots and assigns spaces as cars arrive and leave                  |
 | **Flappy Bird**               | C++ · raylib       | Clone with real-time physics — gravity, impulse, frame-timed collision            |
@@ -327,14 +327,31 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B6EF5,100:E8441A&height=3&section=header" width="100%" alt=""/>
 
-## `07` - GitHub activity
+## `07` - Skill meter
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadAbuzarKhakwani/MuhammadAbuzarKhakwani/main/skill-bars.svg" alt="Skill level meters" width="100%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
+
+## `08` - GitHub activity
 
 <p align="center">
   <img
-    height="165"
-    src="https://streak-stats.demolab.com/?user=MuhammadAbuzarKhakwani&hide_border=true&background=0D1117&stroke=0D1117&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"
-    alt="GitHub streak stats"
+    height="180"
+    src="https://streak-stats.demolab.com/?user=MuhammadAbuzarKhakwani&hide_border=true&background=0D1117&stroke=0D1117&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&exclude_days=Sat,Sun&card_width=480"
+    alt="GitHub streak stats (Mon–Fri only)"
   />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8441A&icon_color=4B6EF5&text_color=C9D1D9&ring_color=4B6EF5&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <sub>Streak counts Monday–Friday only — weekends off by design.</sub>
 </p>
 
 <p align="center">
@@ -355,7 +372,7 @@ Not afterthoughts. Query optimization, asset strategy and WCAG-compliant contras
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E8441A,100:4B6EF5&height=3&section=header" width="100%" alt=""/>
 
-## `08` - Currently
+## `09` - Currently
 
 ```console
 $ khakwani --status
@@ -364,14 +381,6 @@ $ khakwani --status
 [ ▓▓▓▓▓▓░░░░ ]  Building a GitHub Actions → shared-hosting deploy pipeline
 [ ▓▓▓▓▓░░░░░ ]  Python daily: recursion → OOP → generators → file handling
 [ ▓▓▓░░░░░░░ ]  Database internals & query planning
-
-$ khakwani --core-skills
-
-C++          [ ▓▓▓▓▓▓▓▓░░ ]  Strong
-SQL          [ ▓▓▓▓▓▓▓░░░ ]  Strong
-Assembly     [ ▓▓▓▓▓▓▓░░░ ]  Solid
-DSA          [ ▓▓▓▓▓▓▓▓░░ ]  Strong
-OOP          [ ▓▓▓▓▓▓▓▓▓░ ]  Strong
 ```
 
 <p align="center">
