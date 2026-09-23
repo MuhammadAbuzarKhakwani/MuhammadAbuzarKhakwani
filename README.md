@@ -33,11 +33,13 @@ const developer = {
 
 ### focus areas
 
-<img src="https://progress-bar.dev/85/?title=Python&width=250&color=7C3AED"/><br/>
-<img src="https://progress-bar.dev/78/?title=Django&width=250&color=3B82F6"/><br/>
-<img src="https://progress-bar.dev/75/?title=Flask&width=250&color=3B82F6"/><br/>
-<img src="https://progress-bar.dev/68/?title=Linux%20%2F%20Networking&width=250&color=2DD4BF"/><br/>
-<img src="https://progress-bar.dev/60/?title=DevOps%20%28learning%29&width=250&color=2DD4BF"/>
+```
+Python              ██████████████████░░  85%
+Django               ████████████████░░░░  78%
+Flask                ███████████████░░░░░  75%
+Linux / Networking    ██████████████░░░░░░  68%
+DevOps (learning)     ████████████░░░░░░░░  60%
+```
 
 <sub>python · django · flask · php · c++ · mysql · git</sub>
 
@@ -95,7 +97,7 @@ Built UI components with JavaScript and React.js, learned Redux, fixed bugs alon
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=7C3AED&text_color=C9D1D9&ring_color=3B82F6&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=7C3AED&text_color=C9D1D9&ring_color=3B82F6" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbuzarKhakwani&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8" height="165"/>
 
 </div>
