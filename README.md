@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1A1B3A,100:3B0764&height=230&section=header&text=Muhammad%20Abuzar%20Khakwani&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Python%20Backend%20Developer%20%E2%80%A2%20Moving%20Toward%20DevOps&descAlignY=52&descSize=16&descColor=2DD4BF&animation=fadeIn" width="100%"/>
 
-<sub><b>building systems end to end</b></sub> &nbsp;🟢
+<sub><b>building systems end to end</b></sub> &nbsp;
 
 </div>
 
@@ -97,8 +97,7 @@ Built UI components with JavaScript and React.js, learned Redux, fixed bugs alon
 
 <div align="center">
 
-<img src="https://githubreadmestatsfast.vercel.app/api?username=MuhammadAbuzarKhakwani&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=7C3AED&text_color=C9D1D9&ring_color=3B82F6" height="165"/>
-<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=MuhammadAbuzarKhakwani&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8" height="165"/>
+<img src="https://raw.githubusercontent.com/MuhammadAbuzarKhakwani/MuhammadAbuzarKhakwani/main/github-metrics.svg" width="100%"/>
 
 </div>
 
