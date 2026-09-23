@@ -42,7 +42,6 @@ I've also spent years in **C++** through academic and personal projects — OOP,
 
 <img src="https://streak-stats.demolab.com/?user=MuhammadAbuzarKhakwani&hide_border=true&background=0D1117&stroke=0F0C29&ring=E8441A&fire=E8441A&currStreakLabel=4B6EF5&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=C9D1D9&dates=6E7681&exclude_days=Sat,Sun" width="100%"/>
 
-<sub>🗓️ Counts **Mon–Fri only** — Saturdays and Sundays are off by design, so weekend rest never breaks the streak.</sub>
 
 </td>
 </tr>
